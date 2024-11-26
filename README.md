@@ -18,7 +18,7 @@ Copy the Public Key:
 cat ~/.ssh/id_rsa.pub
 Copy the output and add it to your GitHub/GitLab/Bitbucket account under SSH keys.
 
-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
 On Windows:
 Open Git Bash: This comes with Git for Windows.
 
