@@ -3,5 +3,6 @@
 return main(void)
 {
 	printf("Hello Madhu-");
-	return 0;
+	return 1;
+        
 }
