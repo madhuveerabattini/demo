@@ -1,0 +1,8 @@
+GIT Training
+---------------------------
+
+two types of version controls->centralised(need apptroval for code changes)
+                               distributed(no need of acess for code changes)
+							   
+main/master->dev->remote repository(git clone)->local working directory(git add)->staging area(git commit)->remote directory(git push)
+clone a remote repo->comes to local->commit the changes->git push (to main branch)----
